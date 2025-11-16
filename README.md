@@ -40,7 +40,7 @@ The main execution script (`Main.py`) runs a comprehensive benchmark:
 
 ## 📂 Repository Structure
 
-'''
+```
 .
 ├── Main.py                     # Main script to run the full experiment
 ├── FlowShopHibrido.py          # Class defining the HFS environment and problem logic
@@ -53,7 +53,7 @@ The main execution script (`Main.py`) runs a comprehensive benchmark:
 ├── Comparaciones.xlsx          # Excel file for algorithm comparisons
 └── Correcciones.pdf            # Project documentation or problem statement
 
-'''
+```
 
 ---
 
